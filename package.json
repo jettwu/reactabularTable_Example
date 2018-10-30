@@ -1,0 +1,25 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "annogenerate": "^0.8.1",
+    "lodash": "^4.17.11",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "reactabular-resizable": "^8.14.0",
+    "reactabular-sticky": "^8.14.0",
+    "reactabular-table": "^8.14.0",
+    "reactabular-virtualized": "^8.16.1",
+    "schema2object": "^0.4.0",
+    "table-resolver": "^4.1.1",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
